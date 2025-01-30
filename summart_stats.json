@@ -1,0 +1,62 @@
+{
+    "Weather Counts": {
+        "Normal": 10063,
+        "Raining": 1331,
+        "Other": 296,
+        "Unknown": 292,
+        "Cloudy": 125,
+        "Windy": 98,
+        "Snow": 61,
+        "Raining and Windy": 40,
+        "Fog or mist": 10
+    },
+    "Road Condition Counts": {
+        "Asphalt roads": 11296,
+        "Earth roads": 358,
+        "Gravel roads": 242,
+        "Unknown": 172,
+        "Other": 167,
+        "Asphalt roads with some distress": 81
+    },
+    "Hourly Accident Counts": {
+        "0": 206,
+        "1": 134,
+        "2": 84,
+        "3": 84,
+        "4": 91,
+        "5": 76,
+        "6": 214,
+        "7": 532,
+        "8": 828,
+        "9": 559,
+        "10": 500,
+        "11": 603,
+        "12": 691,
+        "13": 772,
+        "14": 639,
+        "15": 874,
+        "16": 921,
+        "17": 1228,
+        "18": 956,
+        "19": 708,
+        "20": 604,
+        "21": 401,
+        "22": 402,
+        "23": 209
+    },
+    "Daily Accident Counts": {
+        "Friday": 2041,
+        "Thursday": 1851,
+        "Wednesday": 1840,
+        "Tuesday": 1770,
+        "Monday": 1681,
+        "Saturday": 1666,
+        "Sunday": 1467
+    },
+    "Monthly Accident Counts": {
+        "Daylight": 8798,
+        "Darkness - lights lit": 3286,
+        "Darkness - no lighting": 192,
+        "Darkness - lights unlit": 40
+    }
+}
